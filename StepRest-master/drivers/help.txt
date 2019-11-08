@@ -1,0 +1,3 @@
+For selenium to work you will need to have the browser you want to use and the correct driver for this browser.
+
+For example if I have Chrome v77 installed on a win64 PC, I would need to put ChromeDriver.exe v77 in drivers/win64

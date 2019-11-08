@@ -1,0 +1,11 @@
+.vs
+bin
+obj
+drivers/win64/*
+drivers/win32/*
+drivers/mac/*
+drivers/lin64/*
+drivers/lin32/*
+Tests/bin
+Tests/obj
+Tests/.vs
